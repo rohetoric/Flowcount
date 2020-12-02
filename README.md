@@ -1,4 +1,4 @@
-# Flowcount - https://flowcount.herokuapp.com/
+# Flowcount - http://flowcount.herokuapp.com/
 User travel insights inside the product.
 
 Helps visualise the knowledge of a user's journey inside the product.
