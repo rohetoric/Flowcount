@@ -1,4 +1,5 @@
-# Flowcount - http://flowcount.herokuapp.com/
+# Flowcount 
+The project can be found here - http://flowcount.herokuapp.com/ (it may take some time to boot!)
 User travel insights inside the product.
 
 Helps visualise the knowledge of a user's journey inside the product.
